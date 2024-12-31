@@ -13,4 +13,4 @@
     command : sudo systemctl start docker
 
   - name: Deploy Docker Container
-    command: sudo docker run -d --name bankproject -p 8084:8081 viivek11/bankingproject:19
+    command: sudo docker run -d --name bankproject -p 8084:8081 viivek11/bankingproject:20
